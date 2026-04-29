@@ -3,5 +3,4 @@
   "title": "¡Actualización disponible!",
   "message": "Hemos corregido errores y añadido nuevos canales. Pulsa actualizar para obtener la última versión.",
   "downloadUrl": "https://drive.google.com/file/d/1dHeI6_5S4uqlF3urjzQo-ejYeXiVM4lu/view?usp=sharing",
-  "showOnlyIfNew": false
-}
+  "showOnlyIfNew": true
