@@ -1,7 +1,7 @@
-   {
-     "versionCode": 2,
-     "title": "Aviso de Actualización",
-     "message": "Hola! Hemos actualizado la lista de canales. Disfruta el contenido.",
-     "showOnlyIfNew": false
-   }
-   
+{
+  "versionCode": 2,
+  "title": "¡Nueva Versión Disponible!",
+  "message": "Hemos mejorado la estabilidad. Haz clic en Actualizar para descargar.",
+  "downloadUrl": "https://www.mediafire.com/tu-archivo-apk",
+  "showOnlyIfNew": true
+}
